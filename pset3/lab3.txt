@@ -1,0 +1,14 @@
+sort1 uses: Bubble sort
+
+How do you know?: In the sorted files it is close in time to merge sort and even better timing with 50000 numbers. 
+Omega(n) for bubble sort is when the array is perfectly sorted.
+
+sort2 uses: Merge sort
+
+How do you know?: Is the fastest of all 3 algorithms, however took more time on the sorted 50000.
+Even if the array is perfectly sorted, the algorithm still need to split and recombine.
+
+sort3 uses: Selection sort
+
+How do you know?: In terms of timing it is in between Bubble and Merge sort as it needs to go through
+all of the elements of an array.
